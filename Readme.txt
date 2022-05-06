@@ -10,3 +10,6 @@ For model training:
 For testing:
 
 * Upload Brain MRI scan from file system 
+
+
+DATASET LINK - https://github.com/sartajbhuvaji/brain-tumor-classification-dataset
